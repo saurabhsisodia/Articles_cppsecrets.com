@@ -1,4 +1,4 @@
-# Articles_cppsecrets
+#CppSecrets_Articles
 
 All articles which I have written during my internship at cppsecrets, https://cppsecrets.com/home-page/
 
